@@ -43,6 +43,7 @@ INSTALLED_APPS = [
 
     # my_apps
     "users",
+    "flight",
 
     # third-party apps
     "rest_framework",
